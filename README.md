@@ -3,7 +3,7 @@ Name : ML Wizards
 
 Leader : Aishwarya Mukunda
 
-Github Repository : https://github.com/AishwaryaMukund/MLWizards/new/master?readme=1
+Github Repository : https://github.com/AishwaryaMukund/MLWizards
 
 Member List : 
 
